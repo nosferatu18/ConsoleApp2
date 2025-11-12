@@ -24,6 +24,9 @@ namespace ConsoleApp2
                 Console.WriteLine(numbers[i] + "  ");
             }
             Console.WriteLine();
+
+
+
             //поиск минимальног и максимального занчения
             int min = numbers[0];//предполгаем, что первый элемент минимальный
             int max = numbers[0];//предполгаем, что первый элемент максимальный
